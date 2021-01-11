@@ -1,5 +1,10 @@
 # Mask_Detection
 
+# Running Model :
+
+To use webcam for detection of Face Mask, run predict.py in the models/research folder.
+You should install all the required packages mentioned in requirements.txt
+
 
 # Dataset : 
 
