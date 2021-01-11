@@ -27,4 +27,5 @@ Epochs : 20000
 
 Following are the scores after 20000 epochs :
 
-![eval_scores](capture.png?raw=true "Title")
+![eval_scores](capture.pngraw=true "Title")
+![What is this](capture.png)
