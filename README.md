@@ -25,6 +25,8 @@ This data was annotated using "LabelIMG" tool.
 
 The model was trained by transfer learning.
 
+The model was trained on Google Colab
+
 Model used for training : SSD_Mobilenet_v1_coco
 Epochs : 20000
 
