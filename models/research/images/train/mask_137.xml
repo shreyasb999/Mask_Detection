@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mask</folder>
+	<filename>mask_137.png</filename>
+	<path>G:\Shreyas\Deep Learning\Projects\Mask Detection\Dataset\Mask\mask_137.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>11</ymin>
+			<xmax>85</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>10</ymin>
+			<xmax>210</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

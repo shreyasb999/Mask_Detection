@@ -1,0 +1,26 @@
+<annotation>
+	<folder>No Mask Train</folder>
+	<filename>nomask_123.png</filename>
+	<path>D:\Study\Deep Learning\Projects\TSF Mask Detection\No Mask Train\nomask_123.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>55</ymin>
+			<xmax>161</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>
